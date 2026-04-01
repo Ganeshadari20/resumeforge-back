@@ -1,5 +1,5 @@
-fastapi==2.6.4
-uvicorn==2.6.4
+fastapi==0.110.0
+uvicorn==0.29.0
 sqlalchemy==2.0.25
 pydantic[email]==2.6.4
 pydantic-settings==2.1.0
